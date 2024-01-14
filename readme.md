@@ -2,10 +2,10 @@
 
 - [x]  **Analysis of algorithms**
 - [ ]  **Mathematics**
-    - [ ]  Count digits
-    - [ ]  Palindrome numbers
-    - [ ]  Trailing zeros in factorial
-    - [ ]  GCD or HCF
+    - [x]  Count digits
+    - [x]  Palindrome numbers
+    - [x]  Trailing zeros in factorial
+    - [x]  GCD or HCF
     - [ ]  LCM
     - [ ]  Check for prime
     - [ ]  Prime factors
