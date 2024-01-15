@@ -8,7 +8,7 @@
     - [x]  GCD or HCF
     - [x]  LCM
     - [x]  Check for prime
-    - [ ]  Prime factors
+    - [x]  Prime factors
     - [ ]  All divisors of a number
     - [ ]  Sieve of Erathosthenas
     - [ ]  Computing power
