@@ -6,8 +6,8 @@
     - [x]  Palindrome numbers
     - [x]  Trailing zeros in factorial
     - [x]  GCD or HCF
-    - [ ]  LCM
-    - [ ]  Check for prime
+    - [x]  LCM
+    - [x]  Check for prime
     - [ ]  Prime factors
     - [ ]  All divisors of a number
     - [ ]  Sieve of Erathosthenas
