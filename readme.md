@@ -12,9 +12,9 @@
     - [x]  All divisors of a number
     - [x]  Sieve of Erathosthenas
     - [x]  Computing power
-    - [ ]  Iterative power
-    - [ ]  Absolute value
-    - [ ]  Convert celcuis to farenheit
+    - [-]  Iterative power
+    - [-]  Absolute value
+    - [x]  Convert celcuis to farenheit
     - [ ]  Quadratic equation roots
     - [ ]  Factorial of a number
     - [ ]  Digits in factorial
