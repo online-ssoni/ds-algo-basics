@@ -11,7 +11,7 @@
     - [x]  Prime factors
     - [x]  All divisors of a number
     - [x]  Sieve of Erathosthenas
-    - [ ]  Computing power
+    - [x]  Computing power
     - [ ]  Iterative power
     - [ ]  Absolute value
     - [ ]  Convert celcuis to farenheit
