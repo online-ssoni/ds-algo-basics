@@ -9,7 +9,7 @@
     - [x]  LCM
     - [x]  Check for prime
     - [x]  Prime factors
-    - [ ]  All divisors of a number
+    - [x]  All divisors of a number
     - [ ]  Sieve of Erathosthenas
     - [ ]  Computing power
     - [ ]  Iterative power
