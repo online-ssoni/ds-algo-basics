@@ -12,11 +12,11 @@
     - [x]  All divisors of a number
     - [x]  Sieve of Erathosthenas
     - [x]  Computing power
-    - [-]  Iterative power
-    - [-]  Absolute value
+    - [ ]  Iterative power
+    - [ ]  Absolute value
     - [x]  Convert celcuis to farenheit
-    - [ ]  Quadratic equation roots
-    - [ ]  Factorial of a number
+    - [x]  Quadratic equation roots
+    - [x]  Factorial of a number
     - [ ]  Digits in factorial
     - [ ]  Primality test
     - [ ]  Exactly 3 divisors
