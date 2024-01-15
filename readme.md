@@ -10,7 +10,7 @@
     - [x]  Check for prime
     - [x]  Prime factors
     - [x]  All divisors of a number
-    - [ ]  Sieve of Erathosthenas
+    - [x]  Sieve of Erathosthenas
     - [ ]  Computing power
     - [ ]  Iterative power
     - [ ]  Absolute value
