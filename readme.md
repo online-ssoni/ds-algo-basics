@@ -21,9 +21,6 @@
     - [ ]  Primality test
     - [x]  Exactly 3 divisors
     - [x]  GP term
-    - [ ]  Addition under modulo
-    - [ ]  Multiplication under modulo
-    - [ ]  Modular multiplicative inverse
 - [ ]  **Bit-Magic**
     - [ ]  Complete playlist: https://www.youtube.com/watch?v=v62IKeJtj0k&list=PL-Jc9J83PIiFJRioti3ZV7QabwoJK6eKe
     - [ ]  Bitwise operators in java
