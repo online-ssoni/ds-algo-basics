@@ -20,7 +20,7 @@
     - [x]  Digits in factorial
     - [ ]  Primality test
     - [x]  Exactly 3 divisors
-    - [ ]  GP term
+    - [x]  GP term
     - [ ]  Addition under modulo
     - [ ]  Multiplication under modulo
     - [ ]  Modular multiplicative inverse
