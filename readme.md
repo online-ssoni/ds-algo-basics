@@ -19,7 +19,7 @@
     - [x]  Factorial of a number
     - [x]  Digits in factorial
     - [ ]  Primality test
-    - [ ]  Exactly 3 divisors
+    - [x]  Exactly 3 divisors
     - [ ]  GP term
     - [ ]  Addition under modulo
     - [ ]  Multiplication under modulo
