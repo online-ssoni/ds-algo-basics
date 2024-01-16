@@ -17,7 +17,7 @@
     - [x]  Convert celcuis to farenheit
     - [x]  Quadratic equation roots
     - [x]  Factorial of a number
-    - [ ]  Digits in factorial
+    - [x]  Digits in factorial
     - [ ]  Primality test
     - [ ]  Exactly 3 divisors
     - [ ]  GP term
